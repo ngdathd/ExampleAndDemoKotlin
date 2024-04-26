@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ExampleAndDemoKotlin</string>
+    <string name="number_of_medal_label">%d huy chương</string>
+    <string name="number_of_gold_label">%d HC Vàng</string>
+    <string name="number_of_silver_label">%d HC Bạc</string>
+    <string name="number_of_bronze_label">%d HC Đồng</string>
 </resources>
